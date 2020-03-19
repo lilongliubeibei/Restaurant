@@ -1,0 +1,75 @@
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    android:layout_width="fill_parent"
+    android:layout_height="fill_parent"
+    android:orientation="vertical">
+
+
+    <FrameLayout
+        android:id="@+id/fragment"
+        android:layout_width="match_parent"
+        android:layout_weight="1"
+        android:layout_height="0dp"
+        android:layout_gravity="center" />
+    <LinearLayout
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content">
+
+        <ImageView
+            android:id="@+id/iv_food"
+            android:layout_width="0dp"
+            android:layout_height="match_parent"
+            android:layout_weight="1"
+            android:adjustViewBounds="true"
+            android:src="@mipmap/food_select"
+            android:scaleType="centerInside"/>
+
+        <ImageView
+            android:id="@+id/iv_communication"
+            android:layout_width="0dp"
+            android:layout_height="wrap_content"
+            android:layout_weight="1"
+            android:src="@mipmap/communication_unselected"
+            android:scaleType="centerInside"/>
+
+        <ImageView
+            android:id="@+id/iv_me"
+            android:layout_width="0dp"
+            android:layout_height="wrap_content"
+            android:layout_weight="1"
+            android:src="@mipmap/me_unselected"
+            android:scaleType="centerInside"/>
+    </LinearLayout>
+    <LinearLayout
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content">
+
+        <TextView
+            android:id="@+id/food"
+            android:layout_width="0dp"
+            android:layout_height="20sp"
+            android:layout_weight="1"
+            android:gravity="center"
+            android:text="食物大厅"
+            android:textSize="15sp" />
+
+        <TextView
+            android:id="@+id/communication"
+            android:layout_width="0dp"
+            android:layout_height="20sp"
+            android:layout_weight="1"
+            android:gravity="center"
+            android:text="心得交流"
+            android:textSize="15sp" />
+
+        <TextView
+            android:id="@+id/me"
+            android:layout_width="0dp"
+            android:layout_height="20sp"
+            android:layout_weight="1"
+            android:gravity="center"
+            android:text="我的"
+            android:textSize="15sp" />
+    </LinearLayout>
+
+
+</LinearLayout>

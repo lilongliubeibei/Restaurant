@@ -1,0 +1,35 @@
+<?xml version="1.0" encoding="utf-8"?>
+<manifest xmlns:android="http://schemas.android.com/apk/res/android"
+    package="com.example.yiliedurestaurant">
+
+    <uses-permission android:name="android.permission.INTERNET" />
+
+    <application
+        android:allowBackup="true"
+        android:icon="@mipmap/ic_launcher"
+        android:label="@string/app_name"
+        android:roundIcon="@mipmap/ic_launcher_round"
+        android:supportsRtl="true"
+        android:theme="@style/AppTheme">
+        <activity android:name=".ui.activity.OrdersDetailsActivity"></activity>
+        <activity android:name=".ui.activity.RegisterActivity"
+            android:launchMode="standard"/>
+        <activity
+            android:name=".ui.activity.MainActivity"
+            android:theme="@style/MyAppTheme">
+            <intent-filter>
+                <action android:name="android.intent.action.MAIN" />
+
+                <category android:name="android.intent.category.LAUNCHER" />
+            </intent-filter>
+        </activity>
+        <activity
+            android:name=".ui.activity.MyActivity"
+            android:theme="@style/MyAppTheme" />
+        <activity android:name=".ui.activity.FoodDetailsActivity" />
+        <activity
+            android:name=".ui.activity.LoginActivity"
+            android:launchMode="standard" />
+    </application>
+
+</manifest>

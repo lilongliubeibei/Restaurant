@@ -1,0 +1,438 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="AndroidLayouts">
+    <shared>
+      <config />
+    </shared>
+  </component>
+  <component name="AndroidLogFilters">
+    <option name="TOOL_WINDOW_LOG_LEVEL" value="debug" />
+    <option name="TOOL_WINDOW_CONFIGURED_FILTER" value="Show only selected application" />
+  </component>
+  <component name="ChangeListManager">
+    <list default="true" id="999dae2d-15a6-45a0-9a14-81cc99078cd7" name="Default Changelist" comment="">
+      <change afterPath="$PROJECT_DIR$/.gradle/5.4.1/executionHistory/executionHistory.bin" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.gradle/5.4.1/executionHistory/executionHistory.lock" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.gradle/5.4.1/fileChanges/last-build.bin" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.gradle/5.4.1/fileHashes/fileHashes.lock" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.gradle/5.4.1/gc.properties" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.gradle/buildOutputCleanup/buildOutputCleanup.lock" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.gradle/buildOutputCleanup/cache.properties" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.gradle/vcs-1/gc.properties" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/caches/build_file_checksums.ser" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/caches/gradle_models.ser" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/modules.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/yilieduRestaurant -27.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/yilieduRestaurant -27/.gitignore" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/yilieduRestaurant -27/app/.gitignore" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/yilieduRestaurant -27/app/build.gradle" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/yilieduRestaurant -27/app/proguard-rules.pro" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/yilieduRestaurant -27/app/src/androidTest/java/com/example/yiliedurestaurant/ExampleInstrumentedTest.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/yilieduRestaurant -27/app/src/main/AndroidManifest.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/yilieduRestaurant -27/app/src/main/java/com/example/yiliedurestaurant/Interface/MyDialogInterface.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/yilieduRestaurant -27/app/src/main/java/com/example/yiliedurestaurant/Interface/viewInterface.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/yilieduRestaurant -27/app/src/main/java/com/example/yiliedurestaurant/base/ActivityBase.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/yilieduRestaurant -27/app/src/main/java/com/example/yiliedurestaurant/base/FragmentBase.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/yilieduRestaurant -27/app/src/main/java/com/example/yiliedurestaurant/base/PrensenterBase.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/yilieduRestaurant -27/app/src/main/java/com/example/yiliedurestaurant/model/Bean_CreatOrder.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/yilieduRestaurant -27/app/src/main/java/com/example/yiliedurestaurant/model/Bean_Food.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/yilieduRestaurant -27/app/src/main/java/com/example/yiliedurestaurant/model/Bean_FoodDetails.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/yilieduRestaurant -27/app/src/main/java/com/example/yiliedurestaurant/model/Bean_MomentList.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/yilieduRestaurant -27/app/src/main/java/com/example/yiliedurestaurant/model/Bean_OrderDetails.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/yilieduRestaurant -27/app/src/main/java/com/example/yiliedurestaurant/model/Bean_Orders.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/yilieduRestaurant -27/app/src/main/java/com/example/yiliedurestaurant/model/Bean_UserDetail.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/yilieduRestaurant -27/app/src/main/java/com/example/yiliedurestaurant/model/Bean_login.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/yilieduRestaurant -27/app/src/main/java/com/example/yiliedurestaurant/model/Food.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/yilieduRestaurant -27/app/src/main/java/com/example/yiliedurestaurant/model/FoodOrderItem.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/yilieduRestaurant -27/app/src/main/java/com/example/yiliedurestaurant/model/Info.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/yilieduRestaurant -27/app/src/main/java/com/example/yiliedurestaurant/model/Moments.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/yilieduRestaurant -27/app/src/main/java/com/example/yiliedurestaurant/model/OrderItem.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/yilieduRestaurant -27/app/src/main/java/com/example/yiliedurestaurant/model/Orders.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/yilieduRestaurant -27/app/src/main/java/com/example/yiliedurestaurant/model/User.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/yilieduRestaurant -27/app/src/main/java/com/example/yiliedurestaurant/presenter/Fm1Presenter.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/yilieduRestaurant -27/app/src/main/java/com/example/yiliedurestaurant/presenter/Fm2Presenter.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/yilieduRestaurant -27/app/src/main/java/com/example/yiliedurestaurant/presenter/Fm4Presenter.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/yilieduRestaurant -27/app/src/main/java/com/example/yiliedurestaurant/presenter/LoginPresenter.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/yilieduRestaurant -27/app/src/main/java/com/example/yiliedurestaurant/presenter/OrderDetailsPresenter.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/yilieduRestaurant -27/app/src/main/java/com/example/yiliedurestaurant/presenter/RegisterPresenter.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/yilieduRestaurant -27/app/src/main/java/com/example/yiliedurestaurant/ui/activity/FoodDetailsActivity.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/yilieduRestaurant -27/app/src/main/java/com/example/yiliedurestaurant/ui/activity/LoginActivity.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/yilieduRestaurant -27/app/src/main/java/com/example/yiliedurestaurant/ui/activity/MainActivity.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/yilieduRestaurant -27/app/src/main/java/com/example/yiliedurestaurant/ui/activity/MyActivity.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/yilieduRestaurant -27/app/src/main/java/com/example/yiliedurestaurant/ui/activity/MyDialog.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/yilieduRestaurant -27/app/src/main/java/com/example/yiliedurestaurant/ui/activity/OrdersDetailsActivity.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/yilieduRestaurant -27/app/src/main/java/com/example/yiliedurestaurant/ui/activity/RegisterActivity.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/yilieduRestaurant -27/app/src/main/java/com/example/yiliedurestaurant/ui/adapter/FoodRecycleViewAdapter.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/yilieduRestaurant -27/app/src/main/java/com/example/yiliedurestaurant/ui/adapter/GridViewAdapter.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/yilieduRestaurant -27/app/src/main/java/com/example/yiliedurestaurant/ui/adapter/MomentRecycleViewAdapter.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/yilieduRestaurant -27/app/src/main/java/com/example/yiliedurestaurant/ui/adapter/OrderListRecycleViewAdapter.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/yilieduRestaurant -27/app/src/main/java/com/example/yiliedurestaurant/ui/adapter/OrdersDetails_ListViewAdapter.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/yilieduRestaurant -27/app/src/main/java/com/example/yiliedurestaurant/ui/customizedView/MyGridView.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/yilieduRestaurant -27/app/src/main/java/com/example/yiliedurestaurant/ui/fragment/Fragment1.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/yilieduRestaurant -27/app/src/main/java/com/example/yiliedurestaurant/ui/fragment/Fragment2.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/yilieduRestaurant -27/app/src/main/java/com/example/yiliedurestaurant/ui/fragment/Fragment3.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/yilieduRestaurant -27/app/src/main/java/com/example/yiliedurestaurant/ui/fragment/Fragment4.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/yilieduRestaurant -27/app/src/main/java/com/example/yiliedurestaurant/utils/GetLoginState.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/yilieduRestaurant -27/app/src/main/java/com/example/yiliedurestaurant/utils/HttpUtil.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/yilieduRestaurant -27/app/src/main/java/com/example/yiliedurestaurant/utils/refresh/CircleImageView.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/yilieduRestaurant -27/app/src/main/java/com/example/yiliedurestaurant/utils/refresh/MaterialProgressDrawable.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/yilieduRestaurant -27/app/src/main/java/com/example/yiliedurestaurant/utils/refresh/SwipeRefresh.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/yilieduRestaurant -27/app/src/main/java/com/example/yiliedurestaurant/utils/refresh/SwipeRefreshLayout.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/yilieduRestaurant -27/app/src/main/res/drawable-v24/ic_launcher_foreground.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/yilieduRestaurant -27/app/src/main/res/drawable/ic_launcher_background.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/yilieduRestaurant -27/app/src/main/res/drawable/jump_button_selector.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/yilieduRestaurant -27/app/src/main/res/layout/activity_main.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/yilieduRestaurant -27/app/src/main/res/layout/activity_me.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/yilieduRestaurant -27/app/src/main/res/layout/activity_orders_details.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/yilieduRestaurant -27/app/src/main/res/layout/activity_register.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/yilieduRestaurant -27/app/src/main/res/layout/activity_section1.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/yilieduRestaurant -27/app/src/main/res/layout/food_details.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/yilieduRestaurant -27/app/src/main/res/layout/fragment1.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/yilieduRestaurant -27/app/src/main/res/layout/fragment2.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/yilieduRestaurant -27/app/src/main/res/layout/fragment3.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/yilieduRestaurant -27/app/src/main/res/layout/fragment4.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/yilieduRestaurant -27/app/src/main/res/layout/item_food.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/yilieduRestaurant -27/app/src/main/res/layout/item_image.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/yilieduRestaurant -27/app/src/main/res/layout/item_moment.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/yilieduRestaurant -27/app/src/main/res/layout/item_order.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/yilieduRestaurant -27/app/src/main/res/layout/layout1.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/yilieduRestaurant -27/app/src/main/res/layout/layout2.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/yilieduRestaurant -27/app/src/main/res/layout/layout3.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/yilieduRestaurant -27/app/src/main/res/layout/login.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/yilieduRestaurant -27/app/src/main/res/layout/mydialog.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/yilieduRestaurant -27/app/src/main/res/layout/orderitem.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/yilieduRestaurant -27/app/src/main/res/mipmap-anydpi-v26/ic_launcher.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/yilieduRestaurant -27/app/src/main/res/mipmap-anydpi-v26/ic_launcher_round.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/yilieduRestaurant -27/app/src/main/res/mipmap-hdpi/ic_launcher.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/yilieduRestaurant -27/app/src/main/res/mipmap-hdpi/ic_launcher_round.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/yilieduRestaurant -27/app/src/main/res/mipmap-mdpi/ic_launcher.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/yilieduRestaurant -27/app/src/main/res/mipmap-mdpi/ic_launcher_round.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/yilieduRestaurant -27/app/src/main/res/mipmap-xhdpi/ic_launcher.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/yilieduRestaurant -27/app/src/main/res/mipmap-xhdpi/ic_launcher_round.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/yilieduRestaurant -27/app/src/main/res/mipmap-xxhdpi/add.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/yilieduRestaurant -27/app/src/main/res/mipmap-xxhdpi/bg_login.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/yilieduRestaurant -27/app/src/main/res/mipmap-xxhdpi/comment.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/yilieduRestaurant -27/app/src/main/res/mipmap-xxhdpi/communication_select.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/yilieduRestaurant -27/app/src/main/res/mipmap-xxhdpi/communication_unselected.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/yilieduRestaurant -27/app/src/main/res/mipmap-xxhdpi/food_select.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/yilieduRestaurant -27/app/src/main/res/mipmap-xxhdpi/food_unselect.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/yilieduRestaurant -27/app/src/main/res/mipmap-xxhdpi/ic_launcher.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/yilieduRestaurant -27/app/src/main/res/mipmap-xxhdpi/ic_launcher_round.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/yilieduRestaurant -27/app/src/main/res/mipmap-xxhdpi/icon.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/yilieduRestaurant -27/app/src/main/res/mipmap-xxhdpi/like.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/yilieduRestaurant -27/app/src/main/res/mipmap-xxhdpi/me_select.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/yilieduRestaurant -27/app/src/main/res/mipmap-xxhdpi/me_unselected.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/yilieduRestaurant -27/app/src/main/res/mipmap-xxhdpi/money1.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/yilieduRestaurant -27/app/src/main/res/mipmap-xxhdpi/money2.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/yilieduRestaurant -27/app/src/main/res/mipmap-xxhdpi/need_login.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/yilieduRestaurant -27/app/src/main/res/mipmap-xxhdpi/order_bg.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/yilieduRestaurant -27/app/src/main/res/mipmap-xxhdpi/share.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/yilieduRestaurant -27/app/src/main/res/mipmap-xxhdpi/splash1.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/yilieduRestaurant -27/app/src/main/res/mipmap-xxhdpi/splash2.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/yilieduRestaurant -27/app/src/main/res/mipmap-xxhdpi/splash3.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/yilieduRestaurant -27/app/src/main/res/mipmap-xxhdpi/sub.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/yilieduRestaurant -27/app/src/main/res/mipmap-xxxhdpi/ic_launcher.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/yilieduRestaurant -27/app/src/main/res/mipmap-xxxhdpi/ic_launcher_round.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/yilieduRestaurant -27/app/src/main/res/values/colors.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/yilieduRestaurant -27/app/src/main/res/values/strings.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/yilieduRestaurant -27/app/src/main/res/values/styles.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/yilieduRestaurant -27/app/src/test/java/com/example/yiliedurestaurant/ExampleUnitTest.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/yilieduRestaurant -27/build.gradle" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/yilieduRestaurant -27/gradle.properties" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/yilieduRestaurant -27/gradle/wrapper/gradle-wrapper.jar" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/yilieduRestaurant -27/gradle/wrapper/gradle-wrapper.properties" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/yilieduRestaurant -27/gradlew" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/yilieduRestaurant -27/gradlew.bat" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/yilieduRestaurant -27/settings.gradle" afterDir="false" />
+    </list>
+    <ignored path="$PROJECT_DIR$/build/classes/" />
+    <ignored path="$PROJECT_DIR$/.gradle/" />
+    <ignored path="$PROJECT_DIR$/app/build/" />
+    <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="ExecutionTargetManager" SELECTED_TARGET="3.2_HVGA_slider_ADP1_API_24" />
+  <component name="ExternalProjectsManager">
+    <system id="GRADLE">
+      <state>
+        <projects_view />
+      </state>
+    </system>
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="layoutResourceFile_vertical" />
+        <option value="Class" />
+        <option value="Interface" />
+      </list>
+    </option>
+  </component>
+  <component name="FindInProjectRecents">
+    <findStrings>
+      <find>public</find>
+      <find>fragment1Presenter</find>
+      <find>activitySection1</find>
+      <find>myActivity</find>
+      <find>myPresenter</find>
+      <find>presenter</find>
+      <find>ordersDetailsActivity</find>
+      <find>fragmentBase</find>
+      <find>prensenterBase</find>
+      <find>current_requestcode</find>
+      <find>glide</find>
+      <find>Glide</find>
+    </findStrings>
+    <replaceStrings>
+      <replace>private</replace>
+      <replace>presenter</replace>
+      <replace>myActivity</replace>
+      <replace>fragmentBase</replace>
+      <replace>prensenterBase</replace>
+      <replace>a</replace>
+      <replace>activityBase</replace>
+      <replace>current_location</replace>
+    </replaceStrings>
+  </component>
+  <component name="Git.Settings">
+    <option name="ROOT_SYNC" value="DONT_SYNC" />
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
+  <component name="ProjectFrameBounds">
+    <option name="x" value="13" />
+    <option name="y" value="1" />
+    <option name="width" value="1822" />
+    <option name="height" value="1002" />
+  </component>
+  <component name="ProjectId" id="1ZLxvLhvLYKg3AxNnD7nG5KLSrK" />
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showExcludedFiles" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">
+    <property name="ChangesTree.GroupingKeys" value="module&#10;directory" />
+    <property name="DeviceAndSnapshotComboBoxAction.selectedDevice" value="192.168.87.102:5555" />
+    <property name="DeviceAndSnapshotComboBoxAction.selectionTime" value="2019-12-10T16:12:05.935Z" />
+    <property name="SHARE_PROJECT_CONFIGURATION_FILES" value="true" />
+    <property name="WebServerToolWindowFactoryState" value="false" />
+    <property name="android.project.structure.last.selected" value="SDK Location" />
+    <property name="android.project.structure.proportion" value="0.15" />
+    <property name="android.sdk.path" value="$USER_HOME$/AppData/Local/Android/Sdk" />
+    <property name="aspect.path.notification.shown" value="true" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$" />
+    <property name="not.eligible.for.single.variant.sync" value="true" />
+    <property name="settings.editor.selected.configurable" value="project.propVCSSupport.Mappings" />
+  </component>
+  <component name="RecentsManager">
+    <key name="CopyClassDialog.RECENTS_KEY">
+      <recent name="com.example.yiliedurestaurant.presenter" />
+      <recent name="com.example.yiliedurestaurant.base" />
+      <recent name="com.example.yiliedurestaurant.model" />
+    </key>
+    <key name="CreateClassDialog.RecentsKey">
+      <recent name="com.example.yiliedurestaurant.ui.activity" />
+      <recent name="com.example.yiliedurestaurant.base" />
+    </key>
+  </component>
+  <component name="RunDashboard">
+    <option name="ruleStates">
+      <list>
+        <RuleState>
+          <option name="name" value="ConfigurationTypeDashboardGroupingRule" />
+        </RuleState>
+        <RuleState>
+          <option name="name" value="StatusDashboardGroupingRule" />
+        </RuleState>
+      </list>
+    </option>
+  </component>
+  <component name="RunManager">
+    <configuration default="true" type="AndroidJUnit" factoryName="Android JUnit">
+      <option name="TEST_OBJECT" value="class" />
+      <option name="WORKING_DIRECTORY" value="$MODULE_DIR$" />
+      <method v="2">
+        <option name="Android.Gradle.BeforeRunTask" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="app" type="AndroidRunConfigurationType" factoryName="Android App" activateToolWindowBeforeRun="false">
+      <module name="app" />
+      <option name="DEPLOY" value="true" />
+      <option name="DEPLOY_APK_FROM_BUNDLE" value="false" />
+      <option name="DEPLOY_AS_INSTANT" value="false" />
+      <option name="ARTIFACT_NAME" value="" />
+      <option name="PM_INSTALL_OPTIONS" value="" />
+      <option name="DYNAMIC_FEATURES_DISABLED_LIST" value="" />
+      <option name="ACTIVITY_EXTRA_FLAGS" value="" />
+      <option name="MODE" value="default_activity" />
+      <option name="CLEAR_LOGCAT" value="false" />
+      <option name="SHOW_LOGCAT_AUTOMATICALLY" value="false" />
+      <option name="SKIP_NOOP_APK_INSTALLATIONS" value="true" />
+      <option name="FORCE_STOP_RUNNING_APP" value="true" />
+      <option name="TARGET_SELECTION_MODE" value="DEVICE_AND_SNAPSHOT_COMBO_BOX" />
+      <option name="USE_LAST_SELECTED_DEVICE" value="false" />
+      <option name="PREFERRED_AVD" value="" />
+      <option name="SELECTED_CLOUD_MATRIX_CONFIGURATION_ID" value="-1" />
+      <option name="SELECTED_CLOUD_MATRIX_PROJECT_ID" value="" />
+      <option name="DEBUGGER_TYPE" value="Java" />
+      <Auto>
+        <option name="USE_JAVA_AWARE_DEBUGGER" value="false" />
+        <option name="SHOW_STATIC_VARS" value="true" />
+        <option name="WORKING_DIR" value="" />
+        <option name="TARGET_LOGGING_CHANNELS" value="lldb process:gdb-remote packets" />
+        <option name="SHOW_OPTIMIZED_WARNING" value="true" />
+      </Auto>
+      <Hybrid>
+        <option name="USE_JAVA_AWARE_DEBUGGER" value="false" />
+        <option name="SHOW_STATIC_VARS" value="true" />
+        <option name="WORKING_DIR" value="" />
+        <option name="TARGET_LOGGING_CHANNELS" value="lldb process:gdb-remote packets" />
+        <option name="SHOW_OPTIMIZED_WARNING" value="true" />
+      </Hybrid>
+      <Java />
+      <Native>
+        <option name="USE_JAVA_AWARE_DEBUGGER" value="false" />
+        <option name="SHOW_STATIC_VARS" value="true" />
+        <option name="WORKING_DIR" value="" />
+        <option name="TARGET_LOGGING_CHANNELS" value="lldb process:gdb-remote packets" />
+        <option name="SHOW_OPTIMIZED_WARNING" value="true" />
+      </Native>
+      <Profilers>
+        <option name="ADVANCED_PROFILING_ENABLED" value="false" />
+        <option name="STARTUP_CPU_PROFILING_ENABLED" value="false" />
+        <option name="STARTUP_CPU_PROFILING_CONFIGURATION_NAME" value="Sample Java Methods" />
+      </Profilers>
+      <option name="DEEP_LINK" value="" />
+      <option name="ACTIVITY_CLASS" value="" />
+      <method v="2">
+        <option name="Android.Gradle.BeforeRunTask" enabled="true" />
+      </method>
+    </configuration>
+  </component>
+  <component name="ServiceViewManager">
+    <option name="viewStates">
+      <list>
+        <serviceView>
+          <treeState>
+            <expand />
+            <select />
+          </treeState>
+        </serviceView>
+      </list>
+    </option>
+  </component>
+  <component name="SvnConfiguration">
+    <configuration />
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="999dae2d-15a6-45a0-9a14-81cc99078cd7" name="Default Changelist" comment="" />
+      <created>1575795228940</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1575795228940</updated>
+      <workItem from="1584632415779" duration="999000" />
+    </task>
+    <task id="LOCAL-00001" summary="第一次提交">
+      <created>1584632965862</created>
+      <option name="number" value="00001" />
+      <option name="presentableId" value="LOCAL-00001" />
+      <option name="project" value="LOCAL" />
+      <updated>1584632965862</updated>
+    </task>
+    <task id="LOCAL-00002" summary="第一次提交">
+      <created>1584633188022</created>
+      <option name="number" value="00002" />
+      <option name="presentableId" value="LOCAL-00002" />
+      <option name="project" value="LOCAL" />
+      <updated>1584633188022</updated>
+    </task>
+    <option name="localTasksCounter" value="3" />
+    <servers />
+  </component>
+  <component name="TodoView">
+    <todo-panel id="selected-file">
+      <is-autoscroll-to-source value="true" />
+    </todo-panel>
+    <todo-panel id="all">
+      <are-packages-shown value="true" />
+      <is-autoscroll-to-source value="true" />
+    </todo-panel>
+  </component>
+  <component name="ToolWindowManager">
+    <frame x="13" y="1" width="1822" height="1002" extended-state="0" />
+    <layout>
+      <window_info id="Capture Tool" />
+      <window_info active="true" content_ui="combo" id="Project" visible="true" weight="0.3296767" />
+      <window_info id="Structure" side_tool="true" />
+      <window_info id="Favorites" side_tool="true" />
+      <window_info id="Build Variants" side_tool="true" />
+      <window_info id="Image Layers" />
+      <window_info id="Designer" />
+      <window_info id="Resources Explorer" />
+      <window_info id="Captures" order="0" side_tool="true" weight="0.25" />
+      <window_info anchor="bottom" id="Logcat" />
+      <window_info anchor="bottom" id="TODO" />
+      <window_info anchor="bottom" id="Terminal" />
+      <window_info anchor="bottom" id="Event Log" side_tool="true" />
+      <window_info anchor="bottom" id="Version Control" />
+      <window_info anchor="bottom" id="Build" visible="true" weight="0.32898173" />
+      <window_info anchor="bottom" id="Android Profiler" show_stripe_button="false" />
+      <window_info anchor="right" id="Device File Explorer" side_tool="true" />
+      <window_info anchor="right" id="Capture Analysis" />
+      <window_info anchor="right" id="Gradle" />
+      <window_info anchor="right" id="Theme Preview" />
+      <window_info anchor="right" id="Palette&#9;" />
+    </layout>
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="1" />
+  </component>
+  <component name="VcsManagerConfiguration">
+    <ignored-roots>
+      <path value="$PROJECT_DIR$" />
+    </ignored-roots>
+    <MESSAGE value="第一次提交" />
+    <option name="LAST_COMMIT_MESSAGE" value="第一次提交" />
+  </component>
+  <component name="WindowStateProjectService">
+    <state x="361" y="0" key="CommitChangelistDialog2" timestamp="1584633186185">
+      <screen x="0" y="0" width="1920" height="1024" />
+    </state>
+    <state x="361" y="0" key="CommitChangelistDialog2/0.0.1920.1024@0.0.1920.1024" timestamp="1584633186185" />
+    <state x="589" y="230" key="FileChooserDialogImpl" timestamp="1584633093065">
+      <screen x="0" y="0" width="1920" height="1024" />
+    </state>
+    <state x="589" y="230" key="FileChooserDialogImpl/0.0.1920.1024@0.0.1920.1024" timestamp="1584633093065" />
+    <state x="400" y="105" key="Vcs.Push.Dialog.v2" timestamp="1584633261438">
+      <screen x="0" y="0" width="1920" height="1024" />
+    </state>
+    <state x="400" y="105" key="Vcs.Push.Dialog.v2/0.0.1920.1024@0.0.1920.1024" timestamp="1584633261438" />
+    <state x="151" y="123" width="1720" height="795" key="com.intellij.history.integration.ui.views.DirectoryHistoryDialog" timestamp="1584633110853">
+      <screen x="0" y="0" width="1920" height="1024" />
+    </state>
+    <state x="151" y="123" width="1720" height="795" key="com.intellij.history.integration.ui.views.DirectoryHistoryDialog/0.0.1920.1024@0.0.1920.1024" timestamp="1584633110853" />
+  </component>
+  <component name="masterDetails">
+    <states>
+      <state key="ProjectJDKs.UI">
+        <settings>
+          <last-edited>1.8</last-edited>
+          <splitter-proportions>
+            <option name="proportions">
+              <list>
+                <option value="0.2" />
+              </list>
+            </option>
+          </splitter-proportions>
+        </settings>
+      </state>
+    </states>
+  </component>
+</project>

@@ -1,0 +1,5 @@
+<resources>
+    <string name="app_name">yilieduRestaurant</string>
+    <drawable name="clr_normal">#CEC6C0</drawable>
+    <drawable name="clr_pressed">#F45A4F</drawable>
+</resources>

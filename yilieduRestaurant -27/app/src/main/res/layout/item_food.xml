@@ -1,0 +1,93 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    android:layout_width="match_parent"
+    android:layout_height="wrap_content"
+    android:padding="5dp">
+
+    <ImageView
+        android:id="@+id/iv_food"
+        android:layout_width="0dp"
+        android:layout_weight="1"
+        android:layout_height="match_parent"
+        android:scaleType="centerCrop"/>
+
+    <LinearLayout
+        android:layout_width="0dp"
+        android:layout_weight="2"
+        android:layout_height="wrap_content"
+        android:layout_marginLeft="10dp"
+        android:orientation="vertical">
+
+        <TextView
+            android:id="@+id/tv_foodname"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:text="食物名称"
+            android:textSize="18sp" />
+
+        <TextView
+            android:id="@+id/tv_fooddetails"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:layout_below="@+id/tv_foodname"
+            android:maxLines="1"
+            android:ellipsize="end"
+            android:text="食物说明"
+            android:textSize="15sp" />
+
+
+
+        <RelativeLayout
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:layout_marginTop="40dp">
+            <TextView
+                android:id="@+id/tv_foodprice"
+                android:layout_width="wrap_content"
+                android:layout_height="wrap_content"
+                android:text="39"
+                android:textSize="15sp" />
+            <TextView
+                android:layout_width="wrap_content"
+                android:layout_height="wrap_content"
+                android:layout_toRightOf="@+id/tv_foodprice"
+                android:text="元/份"
+                android:gravity="center"
+                android:textSize="15sp" />
+            <ImageView
+                android:id="@+id/iv_sub"
+                android:layout_width="wrap_content"
+                android:layout_height="wrap_content"
+                android:layout_alignParentRight="true"
+                android:scaleType="centerInside"
+                android:adjustViewBounds="true"
+                android:maxHeight="20sp"
+                android:src="@mipmap/sub" />
+
+            <TextView
+                android:id="@+id/tv_foodnumber"
+                android:layout_width="wrap_content"
+                android:layout_height="wrap_content"
+                android:layout_toLeftOf="@+id/iv_sub"
+                android:layout_marginRight="5dp"
+                android:layout_marginLeft="5dp"
+                android:text="0"
+                android:gravity="center"
+                android:textSize="15sp" />
+            <ImageView
+                android:id="@+id/iv_add"
+                android:layout_width="wrap_content"
+                android:layout_height="wrap_content"
+                android:scaleType="centerInside"
+                android:adjustViewBounds="true"
+                android:maxHeight="20sp"
+                android:layout_toLeftOf="@+id/tv_foodnumber"
+                android:src="@mipmap/add" />
+
+
+
+        </RelativeLayout>
+
+    </LinearLayout>
+
+</LinearLayout>

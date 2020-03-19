@@ -1,0 +1,46 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    tools:context="com.example.yiliedurestaurant.ui.activity.RegisterActivity"
+    android:orientation="vertical">
+
+
+
+    <EditText
+        android:id="@+id/username"
+        android:layout_marginBottom="2dp"
+        android:layout_marginTop="100dp"
+        android:layout_width="fill_parent"
+        android:layout_height="wrap_content"
+        android:padding="5dp"
+        android:textSize="20sp"
+        android:hint="请输入用户名" />
+
+    <EditText
+        android:id="@+id/password"
+        android:layout_width="fill_parent"
+        android:layout_height="wrap_content"
+        android:padding="5dp"
+        android:textSize="20sp"
+        android:hint="请输入密码" />
+    <EditText
+        android:id="@+id/password_again"
+        android:layout_marginBottom="2dp"
+        android:layout_width="fill_parent"
+        android:layout_height="wrap_content"
+        android:padding="5dp"
+        android:textSize="20sp"
+        android:hint="请再次输入密码" />
+
+    <Button
+        android:id="@+id/register"
+        android:layout_width="100dp"
+        android:layout_height="wrap_content"
+        android:layout_below="@+id/password_again"
+       android:layout_gravity="center"
+        android:layout_margin="20dp"
+        android:text="提交" />
+
+</LinearLayout>
